@@ -15,7 +15,6 @@ for (int j = low; j high; j++)
 if (arrj pivot)
 i++;
 swap(arri, arrj);
-swap(arri + 1, arrhigh);
 return i + 1;
  
  
